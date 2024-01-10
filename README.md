@@ -2,7 +2,7 @@
 
 링크 : [https://blog-b74e6.web.app](https://blog-b74e6.web.app)
 
-## 기술 스텍
+## 기술 스택
 1. React-router-dom : 라우팅
 2. Firebase auth : 사용자 인증
 3. Firebase Firestore : CRUD
