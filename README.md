@@ -9,7 +9,7 @@
 4. BEM 구조 : css 스타일링
 5. Firebase CLI : 배포
 
-# 프로젝트 구조
+## 프로젝트 구조
 ```
 src
 ├─ components : 공통 컴포넌트
